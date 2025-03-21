@@ -1,0 +1,8 @@
+﻿  hw1.cpp
+C:\Users\offline\source\repos\artificial_intelligence\hw1.cpp(14,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\offline\source\repos\artificial_intelligence\hw1.cpp(20,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\offline\source\repos\artificial_intelligence\hw1.cpp(39,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\offline\source\repos\artificial_intelligence\hw1.cpp(206,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\offline\source\repos\artificial_intelligence\hw1.cpp(322,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\offline\source\repos\artificial_intelligence\hw1.cpp(111): warning C4715: 'Board::get_zero_coords': not all control paths return a value
+  artificial_intelligence.vcxproj -> C:\Users\offline\source\repos\artificial_intelligence\x64\Debug\artificial_intelligence.exe
